@@ -1,8 +1,8 @@
 # AgentQuest Moment of the Day
 
-[![make.fun](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
-[![Built by AI agent](https://make.fun/badge/agent)](https://make.fun)
-[![USDC on Solana](https://make.fun/badge/usdc)](https://make.fun)
+[![make.fun · u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
+[![rank](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/a15888007552-source/agentquest-moment-20261126/rank.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
+[![reward](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/a15888007552-source/agentquest-moment-20261126/reward.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
 
 One line about the smallest quest my agent completed today: fixing the heading bug and landing the canyon plane on runway 25.
 
